@@ -1,0 +1,233 @@
+aa
+aaa
+aah  haa
+aber  reba
+abu  uba
+aga
+age  ega
+agga
+aha
+aher  reha
+ahi  iha
+aim  mia
+ais  sia
+ait  tia
+ajaja
+ajam  maja
+ajav  vaja
+akka
+ala
+alla
+alle  ella
+alus  sula
+amelema
+amet  tema
+anim  mina
+anna
+anum  muna
+are  era
+asi  isa
+asum  musa
+aua
+ava
+aval  lava
+ebe
+edu  ude
+eee
+ees  see
+ega  age
+egas  sage
+ehe
+elav  vale
+elik  kile
+ella  alle
+emme
+enne
+eos  soe
+era  are
+erak  kare
+ere
+ese
+esi  ise
+ette
+gaas  saag
+haa  aah
+heh
+hm  mh
+häh
+iha  ahi
+iho  ohi
+iii
+iis  sii
+ikki
+ilus  suli
+isa  asi
+ise  esi
+issi
+istik  kitsi
+ius  sui
+kaak
+kaas  saak
+kallak
+kare  erak
+keel  leek
+kiik
+kiil  liik
+kiip  piik
+kiir  riik
+kile  elik
+kimmel  lemmik
+kirik
+kitsi  istik
+kook
+kulu  uluk
+kuul  luuk
+kuup  puuk
+kõõm  mõõk
+köök
+laam  maal
+laar  raal
+laas  saal
+lammas  sammal
+lava  aval
+leek  keel
+leem  meel
+leen  neel
+lemmik  kimmel
+liik  kiil
+liim  miil
+liiv  viil
+linnus  sunnil
+loom  mool
+loop  pool
+loor  rool
+loos  sool
+loov  vool
+luuk  kuul
+luul
+lääs  sääl
+maal  laam
+maas  saam
+madam
+maja  ajam
+meel  leem
+mh  hm
+mhm
+mia  aim
+miil  liim
+mina  anim
+mmm
+mmmm
+mool  loom
+moor  room
+muna  anum
+musa  asum
+muut  tuum
+mõõk  kõõm
+määr  rääm
+neel  leen
+neuen
+nibu  ubin
+niin
+niit  tiin
+niru  urin
+nisu  usin
+noos  soon
+noot  toon
+nuut  tuun
+ohi  iho
+oo
+ooo
+oos  soo
+oot  too
+piik  kiip
+piip
+pool  loop
+poor  roop
+pop
+puuk  kuup
+raal  laar
+raas  saar
+radar
+reba  aber
+reha  aher
+riik  kiir
+riit  tiir
+rool  loor
+room  moor
+roop  poor
+roov  voor
+rulis  silur
+ruut  tuur
+rääm  määr
+rööv  vöör
+rüü  üür
+saag  gaas
+saak  kaas
+saal  laas
+saam  maas
+saar  raas
+saav  vaas
+sage  egas
+sajas
+samas
+sammal  lammas
+sammas
+see  ees
+sees
+sia  ais
+sii  iis
+siis
+silur  rulis
+soe  eos
+soo  oos
+sool  loos
+soon  noos
+sui  ius
+sula  alus
+sulav  valus
+suli  ilus
+sunnil  linnus
+suu  uus
+sõs
+sääl  lääs
+süst  tsüs
+taat
+tema  amet
+tia  ait
+tiin  niit
+tiir  riit
+too  oot
+toon  noot
+tsüs  süst
+tsüst
+tuum  muut
+tuun  nuut
+tuur  ruut
+uba  abu
+ubin  nibu
+ude  edu
+udu
+uju
+uluk  kulu
+urin  niru
+usin  nisu
+uu
+uus  suu
+vaas  saav
+vaja  ajav
+vajav
+vale  elav
+valiv  vilav
+valus  sulav
+verev
+viil  liiv
+viiv
+vilav  valiv
+vool  loov
+voor  roov
+vöör  rööv
+ärä
+öö
+üür  rüü
+
