@@ -10,6 +10,8 @@ elupäev - oo, joove äpule!
 
 Ivar + Aime = keemiaravi
 
+aina ametina pada panite (maania)
+
 aina ametit - titemaania!
 
 iva: raviasutus - aiva ravi
@@ -26,9 +28,13 @@ koksame? mask OK
 
 laama + redel osta, maamats, oled eramaal
 
+ela episooditi, doosi peale
+
 ei osta maamats - oie
 
 kivi osta, maamats-oivik!
+
+hea nali: pidi pilana, eh!
 
 sulas osta, maamats, osalus!
 
@@ -46,9 +52,21 @@ issile melissi!
 
 emme, femme!
 
+tuututatut, uut!
+
 muide, e-maniakk - aina meedium
 
+nii, siin!
+
 nii, miin!
+
+sitke fetiš - IT efektis
+
+ihu kummardad, rammukuhi?
+
+iginoor - kroonigi!
+
+### saatanana taas
 
 saia! maniakk aina maias
 
@@ -62,7 +80,7 @@ Toto-maniakk - aina motot!
 
 vaga maniakk - aina magav
 
-rahutu tuhar
+### rahutu tuhar
 
 tera, aaret
 
