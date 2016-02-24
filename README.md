@@ -68,6 +68,8 @@ tera, aaret
 
 taru aurat
 
+adud: avatum RIHA - hirmutav aduda
+
 ----
 
 [Palindroom- ja lõugsõnad](TULEM.txt)
