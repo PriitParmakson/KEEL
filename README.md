@@ -62,6 +62,12 @@ Toto-maniakk - aina motot!
 
 vaga maniakk - aina magav
 
+rahutu tuhar
+
+tera, aaret
+
+taru aurat
+
 ----
 
 [Palindroom- ja lõugsõnad](TULEM.txt)
