@@ -38,6 +38,8 @@ ei osta maamats - oie
 
 kivi osta, maamats-oivik!
 
+hädine .. venid, äh!
+
 hea nali: pidi pilana, eh!
 
 sulas osta, maamats, osalus!
