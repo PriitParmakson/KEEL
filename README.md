@@ -1,6 +1,8 @@
-ABITUT IBA (valik palindroome)
+ABITUT IBA
 
 isa, aga gaasi?
+
+saagu gaas!
 
 ahaa, papaaha!
 
