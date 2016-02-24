@@ -6,6 +6,10 @@ saagu gaas!
 
 ahaa, papaaha!
 
+kena-paha mahapanek
+
+"masla", paha nahapalsam
+
 elupäev - oo, joove äpule!
 
 Ivar + Aime = keemiaravi
