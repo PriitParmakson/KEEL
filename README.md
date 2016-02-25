@@ -50,7 +50,9 @@ lahe! kriipsujuku kujus piir kehal
 
 aga maniakk aina: maga!
 
-adu, maniakk - aina muda!
+saja malakaga maniakk aina maga Kalamajas
+
+sadu - maniakk aina mudas
 
 ise maniakk - aina mesi!
 
