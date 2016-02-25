@@ -48,9 +48,7 @@ suvel osta, maamats, olevus!
 
 lahe! kriipsujuku kujus piir kehal
 
-aga maniakk aina: maga!
-
-saja malakaga maniakk aina maga Kalamajas
+öö - noaga maniakk aina: maga, on öö!
 
 sadu - maniakk aina mudas
 
