@@ -4,6 +4,8 @@ isa, aga gaasi?
 
 saagu gaas!
 
+hädiselt ütlesid “äh!”
+
 ahaa, papaaha!
 
 kena-paha mahapanek
